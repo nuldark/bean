@@ -1,27 +1,27 @@
 # bean
 
 <div align="center">
-    <a href="https://github.com/nuldark/bean/actions">
+    <a href="https://github.com/nulxrd/bean/actions">
         <img 
-            src="https://github.com/nuldark/bean/actions/workflows/ci.yml/badge.svg" 
+            src="https://github.com/nulxrd/bean/actions/workflows/ci.yml/badge.svg" 
             alt="Build status"
         />
     </a>
-    <a href="https://packagist.org/packages/nuldark/bean">
+    <a href="https://packagist.org/packages/nulxrd/bean">
         <img 
-            src="https://img.shields.io/packagist/dt/nuldark/bean" 
+            src="https://img.shields.io/packagist/dt/nulxrd/bean" 
             alt="Latest stable version"
         />
     </a>
-    <a href="https://packagist.org/packages/nuldark/bean">
+    <a href="https://packagist.org/packages/nulxrd/bean">
         <img 
-            src="https://poser.pugx.org/nuldark/bean/downloads" 
+            src="https://poser.pugx.org/nulxrd/bean/downloads" 
             alt="Total downloads"
         />
     </a>
-    <a href="https://packagist.org/packages/nuldark/bean">
+    <a href="https://packagist.org/packages/nulxrd/bean">
         <img 
-            src="https://poser.pugx.org/nuldark/bean/license.svg" 
+            src="https://poser.pugx.org/nulxrd/bean/license.svg" 
             alt="License" 
         />
     </a>
@@ -43,12 +43,12 @@ defines a common interface for dependency injection containers. Aims to provide 
 Use the composer to install:
 
 ```bash
-composer require nuldark/bean
+composer require nulxrd/bean
 ```
 
 ## Support
 
-- [Issues](https://github.com/nuldark/bean/issues/)
+- [Issues](https://github.com/nulxrd/bean/issues/)
 
 ## License
 

@@ -1,5 +1,5 @@
 {
-    "name": "nuldark/bean",
+    "name": "nulxrd/bean",
     "description": "A lightweight dependency injection container for PHP.",
     "license": "MIT",
     "type": "library",
@@ -11,8 +11,8 @@
         "container"
     ],
     "support": {
-        "issues": "https://github.com/nuldark/bean/issues",
-        "source": "https://github.com/nuldark/bean"
+        "issues": "https://github.com/nulxrd/bean/issues",
+        "source": "https://github.com/nulxrd/bean"
     },
     "require": {
         "php": ">=8.2",
